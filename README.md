@@ -1,4 +1,6 @@
-  Hi, I’m Salim Muhammed  I’m interested in data analytics
+  Hi, I’m Salim Muhammed. 
+  Aspiring data analyst.
+  check out my projects here👇🏻
   
     
 
